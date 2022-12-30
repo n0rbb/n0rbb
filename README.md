@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently studying a bit of Physics
+- 🌱 I’m currently studying Physics in Madrid.
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
