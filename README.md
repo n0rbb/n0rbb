@@ -6,7 +6,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently studying Physics in Madrid.
+- 🌱 I’m currently studying Physics in Madrid. Also learning Linux (Debian)
+- 👀 I’m in ML, Deep Learning and Data Analysis, languages and drumming
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
