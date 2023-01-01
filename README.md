@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently studying Physics in Madrid. Also learning Linux (Debian)
-- 👀 I’m interested in practical applications of ML, data analysis, quantum computation, languages and drumming
+- 👀 I’m interested in practical applications of ML, data analysis, quantum computation
 - 📫 How to reach me: fastpacho@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
