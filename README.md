@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently studying Physics in Madrid. Also learning Linux (Debian)
+- 🌱 I’m currently studying Physics in Madrid and learning Linux on my own (Debian 11) 
 - 👀 I’m interested in ML, data analysis, quantum computation
 - ✨ I also enjoy athletics and drumming
 - 📫 How to reach me: fastpacho@gmail.com
