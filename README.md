@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently studying Physics in Madrid and learning Linux on my own (Debian 11) 
 - 👀 I’m interested in ML, data analysis, quantum computation, IoT
-- ✨ I also enjoy athletics and drumming
+- ✨ I also enjoy hiking, t&f and listening to music
 - 📫 How to reach me: fastpacho@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+- 💬 Ask me about --> 
