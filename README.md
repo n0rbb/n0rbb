@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I'm a physics graduate studying a MEng. in Electronic Systems Engineering
-- 👀 Interested in ML and semiconductors
+- 🌱 I'm a physics graduate studying a MEng. in Electronic Systems 
+- 👀 Interested in compact ML models and semiconductor/device physics!
 - ✨ I also enjoy hiking, t&f and listening to music
 - 📫 How to reach me: mdemig02@gmail.com
 <!-- - 😄 Pronouns: ...
