@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about --> 
 <p align="center">
   <a href="https://github.com/n0rbb">
-    <img src="https://github-readme-stats.vercel.app/api?username=n0rbb&show_icons=true&theme=dark" alt="Mario's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=n0rbb&show_icons=true&theme=nord" alt="Mario's GitHub Stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/n0rbb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0rbb&theme=dark" alt="Mario's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0rbb&theme=nord&layout=compact" alt="Mario's Top Languages" />
   </a>
 </p>
 
