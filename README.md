@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I'm a physics graduate studying a MEng. in Electronic Systems 
+- 🌱 I'm a physics graduate specialising in embedded development
 - 👀 Interested in electronic design, firmware development & semiconductor/device physics!
 - ✨ I also enjoy hiking, t&f and listening to (or making) music
 - 📫 How to reach me: mdemig02@gmail.com
@@ -18,5 +18,14 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about --> 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0rbb)
+<p align="center">
+  <a href="https://github.com/n0rbb">
+    <img src="https://github-readme-stats.vercel.app/api?username=n0rbb&show_icons=true&theme=dark" alt="Mario's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/n0rbb">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0rbb&theme=dark&layout=compact" alt="Mario's Top Languages" />
+  </a>
+</p>
 
