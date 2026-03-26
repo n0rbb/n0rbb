@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I'm a physics graduate specialising in embedded development
+- 🌱 I'm a Research Electronics Engineer at Charles III University of Madrid
+- 🤠 My current work focuses on the development of embedded applications for Perovskite-LEDs
 - 👀 Interested in electronic design, firmware development & semiconductor/device physics!
 - ✨ I also enjoy hiking, t&f and listening to (or making) music
 - 📫 How to reach me: mdemig02@gmail.com
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://github.com/n0rbb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0rbb&theme=dark&layout=compact" alt="Mario's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0rbb&theme=dark" alt="Mario's Top Languages" />
   </a>
 </p>
 
