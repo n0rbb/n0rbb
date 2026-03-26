@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about --> 
+![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0rbb)](https://github.com/anuraghazra/github-readme-stats)
