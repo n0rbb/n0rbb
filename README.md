@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm a Research Electronics Engineer at Charles III University of Madrid
 - 🤠 My current work focuses on the development of embedded applications for Perovskite-LEDs
-- 👀 Interested in electronic design, firmware development & semiconductor/device physics!
+- 👀 Interested in electronic design, firmware development (currently learning DSP) & semiconductor/device physics!
 - ✨ I also enjoy hiking, t&f and listening to (or making) music
 - 📫 How to reach me: mdemig02@gmail.com
 <!-- - 😄 Pronouns: ...
