@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about --> 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/n0rbb">
     <img src="https://github-readme-stats.vercel.app/api?username=n0rbb&show_icons=true&theme=nord" alt="Mario's GitHub Stats" />
   </a>
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/n0rbb">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0rbb&theme=nord&layout=compact" alt="Mario's Top Languages" />
   </a>
-</p>
+</p>-->
 
